@@ -1,9 +1,13 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Myo/Scripts/ThalmicMyo.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Myo.cs">
     <Files>
-      <File FileName="Assets/Myo/Scripts/ThalmicMyo.cs" Line="33" Column="83" />
-      <File FileName="Assets/Myo.cs" Line="20" Column="80" />
+      <File FileName="Assets/Myo/Scripts/ThalmicMyo.cs" Line="7" Column="11" />
+      <File FileName="Assets/Myo.cs" Line="24" Column="45" />
+      <File FileName="Assets/Myo/Scripts/ThalmicHub.cs" Line="3" Column="4" />
+      <File FileName="Assets/Myo Samples/Scripts/SampleSceneGUI.cs" Line="41" Column="25" />
+      <File FileName="Assets/Myo/Scripts/Myo.NET/Pose.cs" Line="1" Column="1" />
+      <File FileName="Assets/Myo/Scripts/Myo.NET/Myo.cs" Line="145" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
