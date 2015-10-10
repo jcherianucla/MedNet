@@ -14,7 +14,7 @@ public class Myo : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (myo.GetComponent<ThalmicMyo> ().pose == Thalmic.Myo.Pose.Fist && (Vector3.zero - brain.transform.localScale).sqrMagnitude < 40) {
+		if (myo.GetComponent<ThalmicMyo> ().pose == Thalmic.Myo.Pose.Fist && (Vector3.zero - brain.transform.localScale).sqrMagnitude < 20) {
 			brain.transform.localScale += Vector3.one * 0.05f;
 		} else if (myo.GetComponent<ThalmicMyo> ().pose == Thalmic.Myo.Pose.FingersSpread && (Vector3.zero - brain.transform.localScale).sqrMagnitude > 1)
 			brain.transform.localScale -= Vector3.one * 0.05f;
